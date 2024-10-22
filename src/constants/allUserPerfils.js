@@ -1,0 +1,1 @@
+export const ADMINISTRATOR = Number(process.env.ID_ADMINISTRADOR);
